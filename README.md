@@ -28,9 +28,3 @@ Each of the 50 problems includes:
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-HarshDhakad/sql-50.git
-   cd sql-50
